@@ -50,6 +50,11 @@
   background-color: blue;
   height: 250px;
     }
+    p {
+
+background:yellow;
+font-family:impact, haettenschweiler,"arial narrow bold", sans-serif;
+}
     
     button{
         color: #FFF;
