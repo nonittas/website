@@ -46,6 +46,7 @@
     }
     
    #features{
+      background-image: none;
     background-color: rgba(0, 255, 246, 1);
     height: 250px;
    }
