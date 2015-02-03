@@ -52,8 +52,11 @@
     }
     p {
 
-background:orange;
+color: #FFF;
+background-color:orange;
 font-family:impact, haettenschweiler,"arial narrow bold", sans-serif;
+margin:0
+padding:30px;
 }
     
     button{
