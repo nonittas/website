@@ -46,13 +46,12 @@
         background-size: cover;
     }
     
-    #features{
-  background-color: blue;
-  height: 250px;
-    }
+   #features{
+    background-color: rgba(0, 255, 246, 1);
+    height: 250px;
+   }
+    
     p {
-
-color: #FFF;
 background-color:orange;
 font-family:impact, haettenschweiler,"arial narrow bold", sans-serif;
 margin:0
