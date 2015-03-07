@@ -52,13 +52,13 @@ height:60px;   /* Height of the footer */
    section{
         text-align: center;
         background-image:url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
-        height: 400px;
+        height: 300px;
         background-size: cover;
     }
     
    #features{
-      background-image: none;
-    background-color: rgba(125, 141, 140, 1);
+   background-image: none;
+    background-color: black;
     height: 250px;
    }
     
